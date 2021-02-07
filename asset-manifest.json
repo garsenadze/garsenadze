@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/static/css/main.18c264e2.chunk.css",
-    "main.js": "/static/js/main.f50f1732.chunk.js",
-    "main.js.map": "/static/js/main.f50f1732.chunk.js.map",
+    "main.css": "/static/css/main.d70c8a9c.chunk.css",
+    "main.js": "/static/js/main.b657ed70.chunk.js",
+    "main.js.map": "/static/js/main.b657ed70.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.5d03284a.js",
     "runtime-main.js.map": "/static/js/runtime-main.5d03284a.js.map",
     "static/js/2.4b72466b.chunk.js": "/static/js/2.4b72466b.chunk.js",
     "static/js/2.4b72466b.chunk.js.map": "/static/js/2.4b72466b.chunk.js.map",
     "index.html": "/index.html",
-    "static/css/main.18c264e2.chunk.css.map": "/static/css/main.18c264e2.chunk.css.map",
+    "static/css/main.d70c8a9c.chunk.css.map": "/static/css/main.d70c8a9c.chunk.css.map",
     "static/js/2.4b72466b.chunk.js.LICENSE.txt": "/static/js/2.4b72466b.chunk.js.LICENSE.txt",
     "static/media/arsmen.1eaede94.jpg": "/static/media/arsmen.1eaede94.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.5d03284a.js",
     "static/js/2.4b72466b.chunk.js",
-    "static/css/main.18c264e2.chunk.css",
-    "static/js/main.f50f1732.chunk.js"
+    "static/css/main.d70c8a9c.chunk.css",
+    "static/js/main.b657ed70.chunk.js"
   ]
 }
